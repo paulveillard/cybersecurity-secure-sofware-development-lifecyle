@@ -5,5 +5,5 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## Tables of Content
 
-About S-SDLC
+### About S-SDLC
 ![SDLC](https://github.com/paulveillard/cybersecurity-secure-sofware-development-lifecyle/blob/main/img/SSDLC.png)
