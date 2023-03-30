@@ -4,7 +4,7 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Tables of Content
- - [About S-SDLC](#)
+ - [About S-SDLC](#about-s-sdlc)
 
 ### About S-SDLC
 ![SDLC](https://github.com/paulveillard/cybersecurity-secure-sofware-development-lifecyle/blob/main/img/SSDLC.png)
