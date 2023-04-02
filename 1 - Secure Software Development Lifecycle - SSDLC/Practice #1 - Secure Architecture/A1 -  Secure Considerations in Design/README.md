@@ -7,6 +7,6 @@ with regard to schedules, deliverables, revenue, and customer good will. Securit
 attackers, but also from innocent oversights in software administration.
 
 When developers consider security in the functional design, they conduct three basic tasks:
-• Evaluate for vulnerabilities
-• Assess the possibility of a threat compromising a vulnerability
-• Mitigate the vulnerability in design or recommend suitable secure deployment of functionality
+- Evaluate for vulnerabilities
+- Assess the possibility of a threat compromising a vulnerability
+- Mitigate the vulnerability in design or recommend suitable secure deployment of functionality
