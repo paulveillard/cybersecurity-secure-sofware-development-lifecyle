@@ -5,3 +5,8 @@ at the beginning of a project through careful consideration and planning. Identi
 end of a product development cycle or after a product release can be expensive, both in terms of the rework cost and
 with regard to schedules, deliverables, revenue, and customer good will. Security risks not only come from determined
 attackers, but also from innocent oversights in software administration.
+
+When developers consider security in the functional design, they conduct three basic tasks:
+• Evaluate for vulnerabilities
+• Assess the possibility of a threat compromising a vulnerability
+• Mitigate the vulnerability in design or recommend suitable secure deployment of functionality
